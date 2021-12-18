@@ -3,6 +3,7 @@ npm init
 npm install   
 npm install express   
 npm install cors   
+npm install web3
    
 ### packages version
 npm version : 7.24.2   
